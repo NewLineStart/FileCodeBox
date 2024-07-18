@@ -42,7 +42,7 @@ DEFAULT_CONFIG = {
     'uploadMinute': 1,
     'opacity': 0.9,
     'background': '',
-    'uploadCount': 10,
+    'uploadCount': 1000,
     'errorMinute': 1,
     'errorCount': 1,
     'port': 12345,
